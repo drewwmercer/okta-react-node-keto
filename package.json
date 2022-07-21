@@ -14,7 +14,7 @@
     "express": "^4.16.3",
     "final-form": "^4.8.3",
     "lodash": "^4.17.21",
-    "moment": "^2.29.2",
+    "moment": "^2.29.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-final-form": "^6.3.0",
