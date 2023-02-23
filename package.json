@@ -21,7 +21,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "^3.2.0",
     "recompose": "^0.30.0",
-    "sequelize": "^5.15.1",
+    "sequelize": "^6.28.2",
     "sqlite3": "^4.0.4",
     "uuid": "^3.3.2"
   },
